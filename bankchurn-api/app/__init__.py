@@ -1,2 +1,2 @@
-from .health import Health
-from .predict import MultipleDataInputs, PredictionResults
+from .schemas.health import Health
+from .schemas.predict import MultipleDataInputs, PredictionResults
